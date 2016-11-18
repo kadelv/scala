@@ -1,0 +1,15 @@
+Title
+Creator
+Subject
+Description
+Publisher
+Contributor
+Date
+Type
+Format
+Identifier
+Source
+language
+Relation
+Coverage
+Rights
